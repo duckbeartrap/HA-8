@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AsyncHW</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="average">Average</string>
+    <string name="username">Bobby Smurda</string>
+    <string name="username2">Diplo</string>
+    <string name="username3">Dillon</string>
+    <string name="username4">ZHU</string>
+    <string name="username5">Borgore</string>
+    <string name="username6">Jauz</string>
+    <string name="username7">Skrillex</string>
+    <string name="time">About a Week Ago</string>
+    <string name="time1">Today</string>
+    <string name="time3">2 hours ago</string>
+    <string name="time4">A Year Ago</string>
+    <string name="time5">Today</string>
+    <string name="time6">2 Weeks Ago</string>
+    <string name="time7">Yesterday</string>
+</resources>
